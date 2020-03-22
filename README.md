@@ -1,5 +1,14 @@
 <div align='center'><h2>Projet GDELT : Mise en place d’une architecture ETL résiliente sous AWS</h2></div>
 
+Membres de l'équipe :
+<ul> 
+  <li><a href="https://github.com/hamza-04">Hamza AMRI</a></li>
+  <li><a href="https://github.com/camillecochener">Camille COCHENER</a></li>
+  <li><a href="https://github.com/sophieleveugle">Sophie LEVEUGLE</a></li>
+  <li>Romain LEGRAND</li>
+  <li><a href="https://github.com/rodolphesimoneau">Rodolphe SIMONEAU</a></li>
+</ul>
+
 <p align='justify'>Le <a href="https://www.gdeltproject.org/">projet GDELT</a> recense les couvertures médiatiques d’évènements à travers le monde. Ce projet liste les évènements mondiaux depuis plusieurs années, et contient dans sa base des informations quant à leur couverture médiatique, c’est-à-dire les les articles citant ces événements, le ton des articles, les sujets abordés, les participants, les lieux, etc.
 La base est enrichie toutes les 15 minutes.</p>  
 
