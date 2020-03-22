@@ -5,7 +5,7 @@ Membres de l'équipe :
   <li><a href="https://github.com/hamza-04">Hamza AMRI</a></li>
   <li><a href="https://github.com/camillecochener">Camille COCHENER</a></li>
   <li><a href="https://github.com/sophieleveugle">Sophie LEVEUGLE</a></li>
-  <li>Romain LEGRAND</li>
+  <li><a href="https://github.com/ms2020bgd/Romain_Legrand">Romain LEGRAND</a></li>
   <li><a href="https://github.com/rodolphesimoneau">Rodolphe SIMONEAU</a></li>
 </ul>
 
